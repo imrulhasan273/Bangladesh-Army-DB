@@ -1,0 +1,50 @@
+Abu Belal Muhammad:male:65:General:abubelal@gmail.com:Dhaka:Savar:Married:01711223344:B+:90000:2:2:32:5.7
+Md Mahfuzur Rahman:male:55:Lieutenant General:lg_mahfuz@gmail.com:Jinaidah:Shoilkopa:Married:01711765533:O+:85000:3:0:30:5.8
+Md Ataul Howlader:male:50:Lieutenant General:lg_ataul@yahoo.com:Tangail:Nagarpur:Married:0151123987:A+:80000:2:0:28:5.7
+Ziaul Alam:male:53:Lieutenant General:lg_Ziaul@hotmail.com:Dhaka:Lalbagh:Married:0171765489:B+:83000:1:1:29:5.6
+Mohammad Maksudur Rahman:male:45:Major General:mg_maksudur@yahoo.com:Dhaka:Mirpur:Married:01522112233:O-:75000:0:0:27:6.2
+Taposh Mondol:male:42:Major General:mg_taposh@outlook.com:Barisal:Muladi:Married:0181639789:AB+:72000:0:1:25:6.0
+Debendranath Datta:male:44:Major General:mg_debendranath@yahoo.com:Jamalpur:Islampur:Married:0191987986:0+:74000:3:0:26:6.7
+Kabir Khandakar:male:43:Major General:mg_Kabir@hotmail.com:Bogra:Gabtali:Married:0167568903:B+:73000:2:0:27:6.3
+Abdul Jalil:male:50:Brigadier General:bg_abdul@yahoo.com:Rangpur:Pirganj:Unmarried:01812222222:A+:67000:0:0:22:6.1
+Zillur Rahman:male:48:Brigadier General:bg_zillur@gmail.com:Pabna:Ishwardi:Married:0155432321:A-:63000:1:2:20:6.6
+Kamrul Hassan:male:49:Brigadier General:bg_Kamrul@yahoo.com:Khulna:Koyra:Unmarried:017172457891:B-:64000:0:0:21:6.4
+Safar Ali:male:47:Brigadier General:bg_safar@hotmail.com:Madaripur:Kalkini:Unmarried:01918989956:AB+:62000:0:0:19:6.6
+Md Mozzamel Hossain:male:47:Brigadier General:bg_mozzamel@gmail.com:Magura:Shalikha:Married:01676789044:B+:62000:0:0:19:6.7
+Nila Akhter:female:44:Colonel:cl_nila@gmail.com:Borisal:Boshal:Unmarried:016221111111:B-:34000:0:0:22:5.5
+Shamima Begum:female:44:Colonel:cl_shamima@yahoo.com:Magura:Mohammadpur:Married:01919999222:A+:59000:0:1:22:5.3
+Liton das:male:43:Colonel:cl_iton@gmail.com:Natore:Baraigram:Married:01898767421:O+:58000:0:2:22:6.0
+Shamim chowdhury:male:45:Colonel:cl_shamim@hotmail.com:Sirajganj:Kazipur:Married:01818888771:A-:60000:2:2:23:6.2
+Kallimoddin Sarkar:male:42:Colnel:cl_kallimoddin@gmail.com:Barisal:Bakerganj:Married:01949932956:A+:57000:1:0:21:6.2
+Shirazur Rahman:male:40:Lieutenant Colonel:lc_shirazur@gmail.com:Bagerhat:Chitalmari:Married:01515797982:A+:54000:3:1:20:6.8
+RashidurRahman:male:38:Lieutenant Colonel:lc_rashidur@outlook.com:Sylhet:Jalalabad:Married:01916543210:B+:52000:2:0:18:6.0
+Taposh Chowdhory:male:39:Lieutenant Colonel:lc_taposh@gmail.com:Sherpur:Nakla:Married:01717771184:O+:53000:0:1:18:6.5
+Ratan Khandakar:male:37:Lieutenant Colonel:lc_ratan@yahoo.com:Jessore:Keshabpur:Married:01915676779:A+:51000:3:0:17:5.7
+Sabbir Alam:male:38:Lieutenant Colonel:lc_sabbir@gmail.com:Gazipur:Kapasia:Unmarried:01519321123:B+:52000:0:0:21:6.0
+Rahmat Ali:male:36:Lieutenant Colonel:lc_rahmat@yahoo.com:Manikganj:Saturia:Unmarried:01716677552:AB+:50000:0:0:19:6.3
+Jamal Shikdar:male:35:Major:m_jamal@yahoo.com:Meherpur:Gangi:Married:01767000000:A+:48000:2:0:17:6.5
+Tarana Begum:female:34:Major:m_tarana@gmail.com:Rangpur:Mitha Pukur:Married:01513432810:B+:47000:3:0:17:5.2
+Sraboni Akhter:female:34:Major:m_sraboni@yahoo.com:Gazipur:Sreepur:Married:01967890890:AB+:47000:0:2:19:5.7
+Ikramul Alom:male:33:Major:m_ikramul@gmail.com:Dhaka:Mirpur:Unmarried:01817300087:A+:46000:0:0:17:6.0
+Shakil Hossain:male:35:Major:m_shail@hotmail.com:Rajshahi:Boalia:Unmarried:01719033901:B+:48000:0:0:15:6.4
+Samia Khatun:female:34:Major:m_samia@yahoo.com:Rangamati:Barkal:Married:01813344432:AB+:47000:0:2:15:5.5
+Mehedi Hassan:male:32:Major:m_mehedi@gmail.com:Chittagonng:Raozan:Married:01673432109:A-:45000:1:0:12:6.2
+Shimul kumar bishash:male:30:Captain:c_shimul@hotmail.com:Chittagong:Rangunia:Married:01951327876:B-:43000:0:3:10:6.3
+Ariful Zaman:male:29:Captain:c_ariful@gmail.com:Barguna:Amtali:Unmarried:01510000789:A-:42000:0:0:9:6.5
+Sharmeen Ahmed:male:28:Captain:c_sahrmeen@gmail.com:Bagerhat:Rampal:Unmarried:01939499701:O+:41000:0:0:8:5.6
+Rafin Khan:male:28:Captain:c_rafin@yahoo.com:Dhaka:Savar:Unmarried:01810000332:A+:41000:0:0:8:5.8
+Shirin Akhter:female:27:Captain:c_shirin@gmail.com:Dhaka:Dhamrai:Married:01711117655:B+:40000:1:1:7:5.5
+Partho Borua:male:29:Captain:c_partho@yahoo.com:Dhaka:Keraniganj:Married:01999567567:A+:42000:0:2:9:6.0
+Shimanto Islam:male:30:Captain:c_shimanto@gmail.com:Bhoal:Lalmohan:Married:01737662667:O+:43000:1:2:10:6.6
+Rafiul Haider:male:27:Captain:c_rafiul@gmail.com:Dhaka:Nawabganj:Married:0155566729:AB+:40000:3:0:7:6.3
+Habibul Alom:male:24:Warrant Officer:wo_habibul@yahoo.com:Bhola:Daulatpur:Unmarried:0151234890:O+:16000:0:0:6:5.7
+zakirul Islam:male:23:Warrant Officer:wo_zakirul@gmail.com:Dhaka:Dhamrai:Unmarried:01719999662:A+:15000:0:0:4:5.8
+Kamrul Alam:male:22: Warrant Officer:wo_kamrul@yahoo.com:Rajshahi:Paba:Unmarried:01939239239:B+:14000:0:0:2:6.0
+Sharafatullah Sharafat:male:22:Warrant Officer:wo_sharafat@gmail.com:Rajshahi:Bagha:Unmarried:01512222452:O+:14000:0:0:2:6.3
+Yasmin Akhter:male:21:Warrant Officer:wo_yasmin@gmail.com:Barisal:Wazirpur:Unmarried:01718889200:A+:13000:0:0:1:5.5
+Shahanaz Parvin:female:20:Warrant Officer:wo_shahanaz@yahoo.com:Chittagong:Lohagara:Unmarried:01910000221:B+:12000:0:0:2:5.4
+Shafait Haque:male:22: Warrant Officer:wo_shafait@hotmail.com:Dhaka:Savar:Unmarried:01516707039:A+:14000:0:0:3:6.0
+Ariful Sharkar:male:20:Warrant Officer:wo_ariful@gmail.com:Barisal:Banaripara:Unmarried:0198927532:AB+:13000:0:0:1:5.7
+Saniat Rahman:male:24:Warrant Officer:wo_saniat@hotmail.com:Rajshahi:Tanore:Unamrried:01818300076:B+:40000:0:0:1:6.4
+Sarika begum:female:21:Warrant Officer:wo_sarika@yahoo.com:Dhaka:Dhamrai:Unmarried:01718707607:A+:13000:0:0:1:5.5
+Bashar Ahmed:male:24:Warrant Officer:wo_bashar@yahoo.com:Rajshahi:Mohanpur:Unmarried:0151111000:AB+:16000:0:0:1:6.4
